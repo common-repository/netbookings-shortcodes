@@ -1,0 +1,14 @@
+//Settings
+$lightGrey: #CCC; //#f1f4e4; 
+
+$columnHeight: 250px;
+$columnWrapperPaddingBottom: 30px;
+$radius: 5px;
+
+@import 'animations';
+@import 'chart';
+@import 'modal';
+@import 'loading';
+@import 'date-picker';
+
+@import 'default'; //Datepicker core styling

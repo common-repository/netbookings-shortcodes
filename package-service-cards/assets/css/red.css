@@ -1,0 +1,22 @@
+div.nb-item {
+	background: #f9f9f9;
+	color: #444;
+}
+
+div.nb-content h4 {
+	color: #444;
+}
+
+div.nb-price h4 {
+	color: #444;
+}
+
+div.nb-item-inner a.nb-button {
+	background: #ed1c24;
+	color: #fff;
+}
+
+div.nb-item-inner a.nb-button:hover {
+	background: #d31118;
+	color: #fff;
+}
